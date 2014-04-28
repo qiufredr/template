@@ -89,3 +89,7 @@ article {
 	display: block;
 	float:Center;
 }
+
+h1 p{
+	color:white;
+}
