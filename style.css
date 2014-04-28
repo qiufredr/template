@@ -1,7 +1,7 @@
 body {
-	color:#fff;
-	background:#333;
-	font-family:Courier;
+	color:white;
+	background:black;
+	font-family:Arial;
 	width:960px;
 	margin:auto;
 }
@@ -11,20 +11,23 @@ header, main, footer {
 	clear:both;
 	margin-left:0;
 	width:960px;
+	font-family:Impact;
 	
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:Red;
+	font-family:Impact;
+	
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:green;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #77ccee;
+	color:green;
 	text-decoration: none;
 }
 
